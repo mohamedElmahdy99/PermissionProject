@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\PermissionProject.csproj": {}
+    "D:\\Elmahdy\\PermissionDemo\\PermissionProject\\PermissionProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\PermissionProject.csproj": {
+    "D:\\Elmahdy\\PermissionDemo\\PermissionProject\\PermissionProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\PermissionProject.csproj",
+        "projectUniqueName": "D:\\Elmahdy\\PermissionDemo\\PermissionProject\\PermissionProject.csproj",
         "projectName": "PermissionProject",
-        "projectPath": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\PermissionProject.csproj",
+        "projectPath": "D:\\Elmahdy\\PermissionDemo\\PermissionProject\\PermissionProject.csproj",
         "packagesPath": "C:\\Users\\A22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\obj\\",
+        "outputPath": "D:\\Elmahdy\\PermissionDemo\\PermissionProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,6 +77,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

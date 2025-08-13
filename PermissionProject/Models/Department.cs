@@ -13,7 +13,7 @@ namespace PermissionProject.Models
         public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
         public int ManagerId { get; set; }
         [ForeignKey("ManagerId")]
-        Manager? Manager { get; set; } = null!;
+        public Manager? Manager { get; set; } = null!;
         public virtual ICollection<Student> Students { get; set; } = new HashSet<Student>();
         public virtual ICollection<Course> Courses { get; set; } = new HashSet<Course>();
         public virtual ICollection<Instructor> Instructors { get; set; } = new HashSet<Instructor>();

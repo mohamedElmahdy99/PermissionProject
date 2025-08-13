@@ -1,3 +1,7 @@
+using PermissionProject.Abstractions.IServices;
+using PermissionProject.Abstractions.IUnitOfWorks;
+using PermissionProject.Implementations.Services;
+using PermissionProject.Implementations.UnitOfWorks;
 using PermissionProject.Models;
 using PermissionProject.Seeds;
 
@@ -23,6 +27,8 @@ builder.Services.AddIdentity<AppBaseUser, IdentityRole<int>>(opt =>
     .AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDatabase>();
 
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
