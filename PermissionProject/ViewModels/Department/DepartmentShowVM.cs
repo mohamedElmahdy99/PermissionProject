@@ -6,7 +6,7 @@
         public string DepartmentName { get; set; } = string.Empty;
         public bool IsActive { get; set; } = true;
         public string ManagerName { get; set; } = string.Empty;
-        public int ManagerId { get; set; }
+
 
     }
 }

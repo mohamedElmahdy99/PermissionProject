@@ -1,4 +1,4 @@
-﻿@model IEnumerable<PermissionProject.ViewModels.Department.DepartmentShowVM>
+﻿@model IEnumerable<DepartmentShowVM>
 
 @{
     ViewData["Title"] = "Index";
@@ -24,9 +24,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.ManagerName)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ManagerId)
-            </th>
+           
             <th></th>
         </tr>
     </thead>
@@ -45,9 +43,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.ManagerName)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ManagerId)
-            </td>
+          
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |

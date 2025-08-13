@@ -7,10 +7,10 @@
         public int ManagerId { get; set; }
 
         [ForeignKey("ManagerId")]
-        public AppBaseUser User { get; set; }
+        public virtual AppBaseUser User { get; set; }
         public int DepartmentId { get; set; }
 
         [ForeignKey("DepartmentId")]
-        public Department Department { get; set; } = null!;
+        public virtual Department Department { get; set; } = null!;
     }
 }

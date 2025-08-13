@@ -13,8 +13,13 @@ namespace PermissionProject.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var departments = await _departmentService.GetAllDepartments();
-            return View();
+            var departments = await _departmentService.GetAllDepartmentsAsync();
+            if (departments == null || !departments.Any())
+            {
+                return View("NoDepartments");
+            }
+
+            return View(departments);
         }
     }
 }

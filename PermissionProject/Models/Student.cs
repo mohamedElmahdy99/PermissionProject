@@ -11,11 +11,11 @@ namespace PermissionProject.Models
         public int Intake { get; set; }
 
         [ForeignKey("StudId")]
-        public AppBaseUser User { get; set; } = null!;
+        public virtual AppBaseUser User { get; set; } = null!;
         public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
         public int DeptId { get; set; }
         [ForeignKey("DeptId")]
-        public Department Department { get; set; } = null!;
+        public virtual Department Department { get; set; } = null!;
 
     }
 }

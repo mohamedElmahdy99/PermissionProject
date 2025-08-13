@@ -15,7 +15,7 @@ namespace PermissionProject.Models
         public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
         public int InstructorId { get; set; }
         [ForeignKey("InstructorId")]
-        public Instructor Instructor { get; set; } = null!;
+        public virtual Instructor Instructor { get; set; } = null!;
 
     }
 }

@@ -1,7 +1,6 @@
 ﻿using PermissionProject.Abstractions.IServices;
 using PermissionProject.Abstractions.IUnitOfWorks;
 using PermissionProject.Models;
-using PermissionProject.ViewModels.Department;
 
 namespace PermissionProject.Implementations.Services
 {
@@ -22,7 +21,6 @@ namespace PermissionProject.Implementations.Services
             {
                 DepartmentName = department.DepartmentName,
                 IsActive = department.IsActive,
-                ManagerId = department.ManagerId,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow,
 
@@ -35,7 +33,6 @@ namespace PermissionProject.Implementations.Services
                 DepartmentName = newDepartment.DepartmentName,
                 IsActive = newDepartment.IsActive,
                 ManagerName = newDepartment.Manager?.User?.FirstName + " " + newDepartment.Manager?.User?.LastName ?? "No manager",
-                ManagerId = newDepartment.ManagerId,
             };
         }
 
@@ -53,7 +50,6 @@ namespace PermissionProject.Implementations.Services
                 DepartmentName = d.DepartmentName,
                 IsActive = d.IsActive,
                 ManagerName = d.Manager?.User?.FirstName + " " + d.Manager?.User?.LastName ?? "No manager",
-                ManagerId = d.ManagerId,
             }).ToList();
 
         }
@@ -70,7 +66,6 @@ namespace PermissionProject.Implementations.Services
                 DepartmentName = department.DepartmentName,
                 IsActive = department.IsActive,
                 ManagerName = department.Manager?.User?.FirstName + " " + department.Manager?.User?.LastName ?? "No manager",
-                ManagerId = department.ManagerId,
             };
             return dep;
         }
@@ -97,7 +92,6 @@ namespace PermissionProject.Implementations.Services
             departmentUpdate.DepartmentId = department.DeptId;
             departmentUpdate.IsActive = department.IsActive;
             departmentUpdate.UpdatedAt = DateTime.UtcNow;
-            departmentUpdate.ManagerId = department.ManagerId;
 
             await _unitOfWork.DepartmentRepo.UpdateAsync(departmentUpdate);
 
@@ -107,7 +101,6 @@ namespace PermissionProject.Implementations.Services
                 DepartmentName = departmentUpdate.DepartmentName,
                 IsActive = departmentUpdate.IsActive,
                 ManagerName = departmentUpdate.Manager?.User?.FirstName + " " + departmentUpdate.Manager?.User?.LastName ?? "No manager",
-                ManagerId = departmentUpdate.ManagerId,
             };
 
         }

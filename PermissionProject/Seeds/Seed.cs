@@ -18,7 +18,6 @@ namespace PermissionProject.Seeds
                 await _roleManager.CreateAsync(new IdentityRole<int>(Constatnts.Account.Roles.Instructor.ToString()));
             }
         }
-
         public static async Task SeedManager(UserManager<AppBaseUser> _userManager, RoleManager<IdentityRole<int>> _roleManager)
         {
             var Manager = new AppBaseUser()
@@ -40,7 +39,6 @@ namespace PermissionProject.Seeds
                     await _userManager.AddToRoleAsync(Manager, Constatnts.Account.Roles.Manager.ToString());
                 }
             }
-            //SeedPermissions(_roleManager, Manager);
 
         }
         public static async Task SeedInstructor(UserManager<AppBaseUser> _userManager, RoleManager<IdentityRole<int>> _roleManager)
@@ -64,7 +62,6 @@ namespace PermissionProject.Seeds
                     await _userManager.AddToRoleAsync(Manager, Constatnts.Account.Roles.Manager.ToString());
                 }
             }
-            //SeedPermissions(_roleManager, Manager);
 
         }
         public static async Task SeedStudent(UserManager<AppBaseUser> _userStudent, RoleManager<IdentityRole<int>> _roleStudent)
@@ -88,7 +85,6 @@ namespace PermissionProject.Seeds
                     await _userStudent.AddToRoleAsync(Student, Constatnts.Account.Roles.Student.ToString());
                 }
             }
-            //SeedPermissions(_roleStudent, Student);
 
         }
         public static async Task SeedSuperAdmin(UserManager<AppBaseUser> _userSuperAdmin, RoleManager<IdentityRole<int>> _roleSuperAdmin)
@@ -112,7 +108,6 @@ namespace PermissionProject.Seeds
                     await _userSuperAdmin.AddToRoleAsync(SuperAdmin, Constatnts.Account.Roles.SuperAdmin.ToString());
                 }
             }
-            //SeedPermissions(_roleSuperAdmin, SuperAdmin);
 
         }
 

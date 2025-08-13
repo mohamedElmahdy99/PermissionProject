@@ -455,7 +455,6 @@ D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.bui
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.development.json
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\Permissi.8FF3B16C.Up2Date
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\PermissionProject.dll
 D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\refint\PermissionProject.dll
@@ -579,3 +578,4 @@ D:\Elmahdy\PermissionDemo\PermissionProject\bin\Debug\net9.0\ru\Microsoft.CodeAn
 D:\Elmahdy\PermissionDemo\PermissionProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Elmahdy\PermissionDemo\PermissionProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Elmahdy\PermissionDemo\PermissionProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Elmahdy\PermissionDemo\PermissionProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
