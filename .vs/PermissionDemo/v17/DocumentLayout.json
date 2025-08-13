@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\models\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\models\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\seeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\seeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\models\\applicationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\models\\applicationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\implementations\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\implementations\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\abstractions\\irepositories\\igenericrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\abstractions\\irepositories\\igenericrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\abstractions\\iunitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\abstractions\\iunitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|c:\\users\\a22\\source\\repos\\permissiondemo\\permissionproject\\implementations\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB75E603-5309-41C0-9390-FD3EBA147F8A}|PermissionProject\\PermissionProject.csproj|solutionrelative:permissionproject\\implementations\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Course.cs",
+              "RelativeToolTip": "PermissionProject\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:24:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Student.cs",
+              "RelativeToolTip": "PermissionProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:23:40.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "PermissionProject\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:22:12.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Configuration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Models\\Configuration\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\Configuration\\StudentConfiguration.cs",
+              "RelativeToolTip": "PermissionProject\\Models\\Configuration\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:13:51.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Seeds\\Seed.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Seeds\\Seed.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Seeds\\Seed.cs",
+              "RelativeToolTip": "PermissionProject\\Seeds\\Seed.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:53:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Program.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Program.cs",
+              "RelativeToolTip": "PermissionProject\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:47:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PermissionProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\appsettings.json",
+              "RelativeToolTip": "PermissionProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T09:45:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\ApplicationDatabase.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Models\\ApplicationDatabase.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Models\\ApplicationDatabase.cs",
+              "RelativeToolTip": "PermissionProject\\Models\\ApplicationDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:44:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "PermissionProject\\Controllers\\PermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:43:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PermissionProject\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:42:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "PermissionProject\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:41:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PermissionProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:40:48.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Implementations\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Implementations\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Implementations\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "PermissionProject\\Implementations\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:13:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Abstractions\\IUnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Abstractions\\IUnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Abstractions\\IUnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "PermissionProject\\Abstractions\\IUnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:10:26.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "RelativeToolTip": "PermissionProject\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:07:48.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Implementations\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PermissionProject\\Implementations\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\A22\\source\\repos\\PermissionDemo\\PermissionProject\\Implementations\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "PermissionProject\\Implementations\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:41:05.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
